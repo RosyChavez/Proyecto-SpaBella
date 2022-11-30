@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpabellaApplication<spabella>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.crud.spabella.SpabellaApplication",
+            "projectName": "spabella",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
